@@ -578,25 +578,48 @@ Based on the complete analysis:
 
 # 🚀 How to Use This Project
 
-### 1. Run the analysis
+### 1. View the Analysis
 
-Open:
+The **Analysis Documentation** contains the complete workflow followed for this project, including:
 
-'Netflix_Content_Strategy_Analysis.ipynb'
+* Data loading
+* Data cleaning
+* Feature engineering
+* Exploratory Data Analysis (EDA)
+* Statistical calculations
+* Key findings and insights
 
-The notebook contains the data loading, cleaning, feature engineering, calculations and EDA.
+The analysis is provided for **documentation and reference purposes**.
 
-### 2. Open the dashboard
+### 2. View the Dashboard
 
 Open:
 
 `PowerBI/Netflix_Content_Strategy_Dashboard.pbix`
 
-using Microsoft Power BI Desktop.
+using **Microsoft Power BI Desktop**.
 
-### 3. Explore the dashboard
+The dashboard presents the final analysis through interactive visualizations and KPIs.
 
-Use the available filters to explore Netflix content by type and year added.
+### 3. Explore the Dashboard
+
+Use the available **slicers and visualizations** to explore the Netflix catalog based on:
+
+* Content Type
+* Year Added
+* Countries
+* Genres/Categories
+* Content Ratings
+* Content Age
+
+The dashboard provides a visual summary of the major findings identified during the analysis.
+
+### ⚠️ Source Code Notice
+
+This repository is intended to showcase the **project, methodology, analysis, and final dashboard**.
+
+The original executable source code is **not provided for reuse, modification, redistribution, or creation of derivative works**.
+
 
 ---
 # Author
