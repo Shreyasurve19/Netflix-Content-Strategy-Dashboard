@@ -614,17 +614,8 @@ Use the available **slicers and visualizations** to explore the Netflix catalog 
 
 The dashboard provides a visual summary of the major findings identified during the analysis.
 
-### ⚠️ Source Code Notice
-
-This repository is intended to showcase the **project, methodology, analysis, and final dashboard**.
-
-The original executable source code is **not provided for reuse, modification, redistribution, or creation of derivative works**.
-
-
 ---
 # Author
 Shreya Surve
-
-
 ---
 
